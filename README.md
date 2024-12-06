@@ -1,4 +1,4 @@
-# Using Geospatial Analyses to Identify the Impacts of Extreme Weather 
+# Using geospatial analyses to identify the impacts of extreme weather 
 
 ## Description
 This repository is from an assignment completed in EDS 223 (Geospatial Analysis & Remote Sensing) at the Bren School of Environmental Science & Management. Through a series of geospatial analyses, it aimed to analyze the impacts of the severe 2021 winter storms in Houston, Texas. The frequency and intensity of extreme weather events are increasing due to climate change, bringing devastating impacts. In February 2021, the state of Texas suffered a major power crisis, which came about as a result of three severe winter storms sweeping across the United States on February 10–11, 13–17, and 15–20. This analysis identified the impacts of these extreme winter storms by estimating the number of homes that lost power throughout the Houston metropolitan area, and examining whether or not these impacts were distributed equitably across census tracts based on their median income levels.
