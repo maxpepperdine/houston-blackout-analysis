@@ -38,10 +38,9 @@ The data was too large to upload to GitHub, but once downloaded, your repository
 
 ```
 houston-blackout-analysis
-│   README.md
-│   Rmd/Proj files    
+├── *folders/files listed above*
 │
-└───data
+├──data
     │   gis_osm_buildings_a_free_1.gpkg
     │   gis_osm_roads_free_1.gpkg
     │
